@@ -1,0 +1,6 @@
+# Dependencies, test captures and promotion drafts are kept local.
+third_party/
+/promo/
+/iPhoneMirror-*.zip
+.venv/
+__pycache__/
